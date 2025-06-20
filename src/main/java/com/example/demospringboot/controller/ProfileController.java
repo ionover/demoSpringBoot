@@ -1,6 +1,6 @@
 package com.example.demospringboot.controller;
 
-import com.example.demospringboot.config.SystemProfile;
+import com.example.demospringboot.config.profiles.SystemProfile;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.example.demospringboot.config;
+package com.example.demospringboot.config.profiles;
 
 public class ProductionProfile implements SystemProfile {
     @Override
